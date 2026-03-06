@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Lívia+<3;Bem-vindo+ao+meu+GitHub!" />
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas - SENAI  
-💻 Interessada por tecnologia e desenvolvimento web
+💻 Interesse por tecnologia e desenvolvimento web
 
 ## 🚀 Linguagens e Frameworks
 <p>
