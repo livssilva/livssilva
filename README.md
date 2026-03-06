@@ -27,3 +27,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A3EFF&height=120&section=header"/>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
