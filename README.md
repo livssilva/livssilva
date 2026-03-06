@@ -17,4 +17,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A3EFF&height=200&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A3EFF&height=120&section=header"/>
