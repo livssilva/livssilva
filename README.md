@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Lívia+Azevedo; Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Lívia+Azevedo;Bem-vindo+ao+meu+GitHub!"/>
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas - SENAI  
 💻 Tecnologia e desenvolvimento web
