@@ -21,7 +21,7 @@
 
 </p>
 
-## 🛢 Banco de Dados
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> Banco de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
 </p>
