@@ -1,3 +1,6 @@
+<table align="center" style="border: 1.5px solid #8A2BE2; border-radius: 12px;" border="1" bordercolor="#8A2BE2" cellpadding="20" width="100%">
+<tr><td align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Lívia+Azevedo;Bem-vindo+ao+meu+GitHub!"/>
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas - SENAI  
@@ -25,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
 </p>
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7A3EFF&height=120&section=header"/> -->
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</td></tr>
+</table>
