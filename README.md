@@ -1,5 +1,5 @@
-<table align="center" style="border: 1.5px solid #8A2BE2; border-radius: 12px;" border="1" bordercolor="#8A2BE2" cellpadding="20" width="100%">
-<tr><td align="center">
+<table style="border: 1.5px solid #8A2BE2; border-radius: 12px;" border="1" bordercolor="#8A2BE2" cellpadding="20" width="100%">
+<tr><td>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Lívia+Azevedo;Bem-vindo+ao+meu+GitHub!"/>
 
